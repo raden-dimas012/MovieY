@@ -8,7 +8,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>com.dimas.MainApp</string>
+			<string>com.mandiri.dimas</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>deeplink</string>
